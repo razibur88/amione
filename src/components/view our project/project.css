@@ -1,0 +1,107 @@
+.project_main{
+    padding: 128px 0;
+}
+
+.prj_head_left h2{
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;
+    color: #282938;
+}
+.prj_head_right a{
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-weight: 400;
+}
+.prj_head_right a:hover{
+    color: blue;
+    font-weight: 600
+}
+.prj_left{
+    position: relative;
+
+}
+.gradient{
+    position: absolute;
+    background-color: #1c1e53c5;
+    height: 100%;
+    width: 40%;
+    top: 0;
+    left: 0;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.gradient:hover{
+   width: 100%;
+}
+.inner_content {
+    position: absolute;
+    height: 100%;
+    width: 30%;
+    top: 50%;
+    left: 20px;
+}
+.inner_content h3{
+    font-size: 20px;
+    line-height: 34px;
+    font-weight: 600;
+    color: #fff;
+}
+.inner_content p{
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.inner_content a{
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #fff;
+}
+.umm{
+    padding-bottom: 24px;
+}
+.prj_right {
+    position: relative;
+}
+.gradientt{
+    position: absolute;
+    background-color: #1c1e53c5;
+    height: 100%;
+    width: 40%;
+    top: 0;
+    left: 0;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.gradientt:hover{
+    width: 100%;
+ }
+ .inner_contentt{
+    position: absolute;
+    height: 100%;
+    width: 30%;
+    top: 30%;
+    left: 20px;
+ }
+ .inner_contentt h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #fff;
+ }
+ .inner_contentt a{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 10px;
+    color: #fff;
+ }

@@ -1,0 +1,103 @@
+.contact_main{
+    padding: 128px 0;
+}
+.startup_left{
+    min-height: 691px;
+}
+.startup_left{
+    background: url(../../assets/contactbg.png) no-repeat center / cover;
+    max-height: 691px;
+    margin-right: -12px;
+}
+.str_text{
+    padding-left: 91px;
+    padding-top: 96px;
+    width: 85%;
+}
+.str_text h3{
+    font-size: 54px;
+    line-height: 74px;
+    font-weight: 600;
+    color: #fff;
+}
+.str_text p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+}
+.startup_right{
+    min-height: 691px;
+}
+.startup_right{
+    background-color:#1C1E53 ;
+    max-height: 691px;
+    margin-left: -12px;
+}
+.signup{
+    padding-left: 91px;
+    padding-top: 96px;
+    width: 85%;
+
+}
+.signup h5{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 400;
+    color: #fff;
+    padding-bottom: 16px;
+}
+.signup p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+    padding-bottom: 40px;
+}
+.signup input{
+    background: transparent;
+    border: 2px solid #ffffff5b !important;
+    padding: 18px 0;
+}
+.signup .control {
+    display: block;
+    width: 100%;
+    padding: 18px 0 18px 32px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color:#fff;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 2px solid #ffffff3b;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.signup .btnn{
+    display: flex;
+    padding:16px 35%;
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid #fcd980b0;
+    color: #fff;
+    border-radius:41px ;
+    -webkit-border-radius:41px ;
+    -moz-border-radius:41px ;
+    -ms-border-radius:41px ;
+    -o-border-radius:41px ;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -ms-transition: .2s;
+    -o-transition: .2s;
+}
+.signup .btnn:hover{
+    background-color: #FCD980;
+    color: #282938;
+}

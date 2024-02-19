@@ -1,0 +1,24 @@
+.who_main{
+    padding: 128px 0;
+    background-color:#F4F5F5 ;
+}
+.we_top h6{
+    margin-top: -40px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #282938;
+}
+.we_body h2{
+    font-size:38px;
+    font-weight: 600;
+    line-height: 56px;
+    color: #282938;
+}
+.we_body p{
+    font-size:16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #282938bd;
+    padding-bottom: 80px;
+}

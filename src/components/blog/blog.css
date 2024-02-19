@@ -1,0 +1,41 @@
+.blog_main{
+    padding: 128px 0;
+}
+
+.blog_up h2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    color: #282938;
+}
+.blog_main h6{
+    padding-top: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #282938c7;
+}
+.blog_main h2{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #282938;
+}
+.blog_main p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color:#282938c4;
+    padding-bottom: 32px;
+}
+.blog_main a{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color:#282938;
+    
+}
+.blog_main a:hover{
+    color: #2405F2;
+    font-weight: 600;
+}

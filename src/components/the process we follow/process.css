@@ -1,0 +1,41 @@
+.process_main{
+    padding: 128px 0;
+}
+.prc_head h2{
+    font-size:48px !important;
+    font-weight: 600 !important;
+    line-height: 64px;
+    color: #282938;
+}
+.circle{
+    height: 30px;
+    width: 30px;
+    background-color: #2405F2;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: relative;
+}
+.bdr_style{
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    width: 150px;
+    color: #2405F2;
+    border-bottom-style: dotted;
+}
+.prc_body h4{
+    padding-top: 32px !important;
+    font-size: 24px;
+    font-weight: 400 !important;
+    line-height: 36px;
+    color: #282938;
+}
+.prc_body p{
+    font-size:16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #282938bd;
+}
